@@ -1,0 +1,22 @@
+{
+  "name": "randomGift",
+  "homepage": "https://github.com/simpletrain/random-gift",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "ming"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
